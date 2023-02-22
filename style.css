@@ -1,0 +1,18 @@
+img {
+    position: absolute;
+    width: 100px;
+    margin-top: 40px;
+}
+
+h1 {
+    margin-top: 60px;
+    text-align: center;
+}
+
+main {
+    margin-top: 95px;
+}
+
+footer {
+    text-align: center;
+}
